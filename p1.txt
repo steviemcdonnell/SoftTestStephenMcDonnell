@@ -43,12 +43,6 @@
  
 05-27 Nashville
  
-06-03 London
- 
-06-04 London
- 
-06-05 London
- 
 06-08 Stuttgart
  
 06-09 Vienna
@@ -88,13 +82,5 @@
 07-06 Brescia
  
 07-08 Rome
- 
-07-17 Birmingham
- 
-07-18 Brighton
- 
-07-20 Glasgow
- 
-07-21 Newcastle
  
 07-30 St Petersburg
